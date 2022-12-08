@@ -1,0 +1,14 @@
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\bin\Debug\netcoreapp3.1\constant, property, methods.exe
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\bin\Debug\netcoreapp3.1\constant, property, methods.deps.json
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\bin\Debug\netcoreapp3.1\constant, property, methods.runtimeconfig.json
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\bin\Debug\netcoreapp3.1\constant, property, methods.runtimeconfig.dev.json
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\bin\Debug\netcoreapp3.1\constant, property, methods.dll
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\bin\Debug\netcoreapp3.1\constant, property, methods.pdb
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.csproj.AssemblyReference.cache
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.AssemblyInfoInputs.cache
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.AssemblyInfo.cs
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.csproj.CoreCompileInputs.cache
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.dll
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.pdb
+C:\Users\ganes\OneDrive\Desktop\.Net\R.N.Reddy\constant, property, methods\constant, property, methods\obj\Debug\netcoreapp3.1\constant, property, methods.genruntimeconfig.cache
